@@ -6,9 +6,5 @@
   "extends": [
     "plugin:prettier/recommended"
   ],
-  "rules": {
-    "no-undef": [
-      1
-    ]
-  }
+  "rules": {}
 }

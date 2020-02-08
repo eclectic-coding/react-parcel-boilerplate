@@ -1,5 +1,4 @@
 import React from 'react'
-// import  from 'react-dom';
 
 const App = () => {
   return (
