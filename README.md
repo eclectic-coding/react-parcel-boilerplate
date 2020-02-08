@@ -1,8 +1,11 @@
 # Project Title
 
+
+<img src="box.jpg" style="zoom:50%;"  alt="Open cardboard box."/>
+
 One Paragraph of project description goes here
 
-### Prerequisites
+### Install
 
 What things you need to install the software and how to install them
 
@@ -10,27 +13,18 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Configuration Options
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [React]() - The web framework used
+* [ParcelJS](https://parceljs.org/) - ParcelJS zero configuration web application bundler
+* [ESLint](https://eslint.org/) - linting for code quality
+* [Prettier](https://prettier.io/) - code formatter for consistent code output
+* [HUsky](https://github.com/typicode/husky#readme) - prevent bad git commit, git push and more
+* [SASS](https://sass-lang.com/) - ready for SASS/SCSS stle sheets with minification and sourcemaps (or any other style system)
 
 ## Contributing
 
