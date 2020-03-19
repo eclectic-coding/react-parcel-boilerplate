@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html --port 3000 --open",
+    "start": "parcel src/index.html --port 3000 --open",
     "build": "parcel build src/index.html --public-url ./",
     "lint:fix": "eslint src/**/*.js --fix",
     "lint": "eslint src/**/*.js",
