@@ -42,9 +42,9 @@
     "redux": "^4.0.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.10",
+    "@babel/core": "^7.13.13",
     "@babel/preset-env": "^7.13.12",
-    "@babel/preset-react": "7.12.13",
+    "@babel/preset-react": "7.13.13",
     "babel-core": "6.26.3",
     "babel-eslint": "10.1.0",
     "babel-loader": "8.2.2",
